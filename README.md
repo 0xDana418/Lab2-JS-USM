@@ -33,7 +33,7 @@
 Реализуйте следующие функции для анализа транзакций.
 
 1. `getUniqueTransactionTypes(transactions)`
-   - Возвращает массив уникальных типов транзакций.
+   - Возвращает массив уникальных транзакций.
    - Используйте `Set()` для выполнения задания.
 2. `calculateTotalAmount(transactions)` – Вычисляет сумму всех транзакций.
 3. `calculateTotalAmountByDate(transactions, year, month, day)` _[extra]_
